@@ -4,8 +4,8 @@ Welcome to the Caesar Cipher Project
 The project is meant to build a tool that is capable of encrypting and decrypting messages. 
 
 ## Objectives
-* Encode and decode a text message.
-* The text message may also include numbers or more than one word.
+* Encode and decode a message.
+* The message may consist of more than one word and include numbers.
 
 ## Results
 The Graphic User Interface:
