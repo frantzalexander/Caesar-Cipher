@@ -26,6 +26,17 @@ The Graphic User Interface:
 ![Ceasar Cipher UI](https://github.com/frantzalexander/Caesar-Cipher/assets/128331579/b452fb76-df66-4f97-8c68-1d0915026cfa)
 
 ## The Process
+
+After collecting the user data, the shift amount is checked should it exceed 26.
+
+This is performed in order to shift the characters appropriately, should the user input an excessive amount.
+
+The following checkpoint is where the direction for the cryptography is then assessed, to either encrypt or decrypt the message. 
+
+To conclude, the user is asked to continue.
+
+
+
 ```mermaid
 flowchart TD
     start(((Start)))
