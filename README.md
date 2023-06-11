@@ -19,6 +19,8 @@ Additionally, the program incorporates the capacity to encrypt special character
 
 Finally, the program would ask if the user would like to continue encoding or decoding messages.
 
+---
+
 
 The Graphic User Interface:
 
