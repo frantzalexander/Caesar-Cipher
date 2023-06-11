@@ -37,7 +37,9 @@ The following checkpoint is where the direction for the cryptography is then ass
 
 To conclude, the user is asked to continue.
 
+---
 
+Flowchart: 
 
 ```mermaid
 flowchart TD
