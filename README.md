@@ -5,7 +5,7 @@ The project is meant to build a tool that is capable of encrypting and decryptin
 
 ## Key Objectives
 * Encode and decode a message.
-* The message may consist of more than one word and include numbers.
+* The message may consist of more than one word, include numbers and special characters.
 
 ## The Results
 When the program function activates, a display of the ascii art logo for the program title would be shown.  
